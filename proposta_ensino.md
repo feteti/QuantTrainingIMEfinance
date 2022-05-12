@@ -1,0 +1,49 @@
+# Proposta de Ensino - O mínimo que você precisa saber para ser um Quant - **IME Finance Quant**
+## Tópicos: 
+- ### Python 
+- ### Matemática 
+  - Probabilidade 
+    - Variáveis Aleatórias (Unidimensionais/Multidimensionais)
+    - Distribuições 
+    - Momentos de uma Variável Aleatória (Kurtosis e Skewness)
+    - Esperança Condicional 
+    - Teorema do Limite Central 
+    - Introdução aos Processos Estocásticos 
+  - Estatística
+    - Teste de Hipóteses **(?)**
+    - Maximum Likelihood, Informação de Fisher... 
+    - Conceitos sobre Estimadores (Viés, Variância)
+    - Introdução a Séries Temporais
+      - Autocorrelação 
+      - Estacionariedade 
+      - Modelos Autoregressivos/Moving Averages (ARMA) 
+  - Cálculo
+    - O que é um diferencial?
+    - Expansão em Séries de Taylor (Funções de mais de uma variável)
+    - Otimização 
+      - Gradiente Descendente 
+      - Multiplicadores de Lagrange
+  - Álgebra Linear
+    - Matrizes Positivo-Definidas
+- ### Finanças
+  - Primeiro Bloco (Derivativos)
+    - Natureza Randômica dos Preços
+    - Modelo Binomial para o preço de um Ativo
+    - Precificação de um derivativo usando o Modelo Binomial
+    - Passagem do Discreto para o Contínuo (Cálculo de Itô)
+    - Modelo de Black-Scholes 
+      - Gregas 
+      - Hedging 
+      - Métodos Numéricos 
+      - Estratégias Básicas com Opções
+    - Derivativos no Brasil 
+  - Segundo Bloco (Asset Alocation)
+    - Teoria Moderna de Portfólios 
+    - Otimizção de Portfólio 
+    - Problemas com a Estimação de Parâmetros
+    - Value at Risk (VaR), Expected Shortfall/Conditional VaR (ES, CVaR)
+  - Terceiro Bloco (Renda Fixa)
+    - Produtos de Renda Fixa 
+    - Como perder dinheiro na Renda Fixa...
+    - Yield, Duration, Convexidade ($DV01$, Mark to Market (MtM))
+    - Estrutura a Termo da Taxa de Juros (Como Calibrar a Curva)
