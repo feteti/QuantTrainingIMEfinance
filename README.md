@@ -1,2 +1,3 @@
 # QuantTrainingIMEfinance
-Treinamento Quant dado em Fevereiro de 2022
+
+- Proposta de Curso: "O mínimo que você precisa saber para ser um Quant."
