@@ -39,6 +39,7 @@
       - Multiplicadores de Lagrange
   - Álgebra Linear
     - Matrizes Positivo-Definidas
+    - Decomposições de Matrizes no geral
   - Programacao:
     - Torch, AutoGrad e Jax (calculo diferencial)
 - ### Finanças
@@ -55,7 +56,10 @@
     - Derivativos no Brasil 
   - Segundo Bloco (Asset Alocation)
     - Teoria Moderna de Portfólios 
-    - Otimizção de Portfólio 
+    - Otimização de Portfólio 
+    - CAPM 
+    - Modelo de Mais Fatores (Factor Investing)
+    - Black-Litterman (?)
     - Problemas com a Estimação de Parâmetros
     - Value at Risk (VaR), Expected Shortfall/Conditional VaR (ES, CVaR)
     - Programacao:
