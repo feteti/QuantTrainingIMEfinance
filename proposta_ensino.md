@@ -1,6 +1,16 @@
 # Proposta de Ensino - O mínimo que você precisa saber para ser um Quant - **IME Finance Quant**
 ## Tópicos: 
-- ### Python 
+- ### Programacao
+  - Python
+      - Classes
+      - Funcoes
+      - Modulos
+      - Bibliotecas
+      - Design de projetos
+      - API's
+  - Docker
+  - Testes Unitarios
+  - Boa praticas
 - ### Matemática 
   - Probabilidade 
     - Variáveis Aleatórias (Unidimensionais/Multidimensionais)
@@ -9,6 +19,8 @@
     - Esperança Condicional 
     - Teorema do Limite Central 
     - Introdução aos Processos Estocásticos 
+    - Programacao:
+      - Numpy, SciPy
   - Estatística
     - Teste de Hipóteses **(?)**
     - Maximum Likelihood, Informação de Fisher... 
@@ -17,6 +29,8 @@
       - Autocorrelação 
       - Estacionariedade 
       - Modelos Autoregressivos/Moving Averages (ARMA) 
+   - Programacao:
+    - StatsModels
   - Cálculo
     - O que é um diferencial?
     - Expansão em Séries de Taylor (Funções de mais de uma variável)
@@ -25,6 +39,8 @@
       - Multiplicadores de Lagrange
   - Álgebra Linear
     - Matrizes Positivo-Definidas
+  - Programacao:
+    - Torch, AutoGrad e Jax (calculo diferencial)
 - ### Finanças
   - Primeiro Bloco (Derivativos)
     - Natureza Randômica dos Preços
@@ -42,8 +58,12 @@
     - Otimizção de Portfólio 
     - Problemas com a Estimação de Parâmetros
     - Value at Risk (VaR), Expected Shortfall/Conditional VaR (ES, CVaR)
+    - Programacao:
+      - Pyfolio, TA-Lib 
   - Terceiro Bloco (Renda Fixa)
     - Produtos de Renda Fixa 
     - Como perder dinheiro na Renda Fixa...
     - Yield, Duration, Convexidade ($DV01$, Mark to Market (MtM))
     - Estrutura a Termo da Taxa de Juros (Como Calibrar a Curva)
+  - Programacao:
+    - API's Publicas de dados: API anbima, Yfinance, Backtest(?) (Cerebro, Zipline)
